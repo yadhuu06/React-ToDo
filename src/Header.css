@@ -1,0 +1,20 @@
+/* Header.css */
+.Hline {
+    color: blue;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    
+  }
+/* Header.css */
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 60px;  /* Adjust height as needed */
+    background-color: white;
+  }
+  
